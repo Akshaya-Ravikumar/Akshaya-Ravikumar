@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshaya-Ravikumar
+- 👋 Hi, I’m Akshaya Ravikumar
 - 👀 I’m interested in Front end development and it's associated technologies
 - 🌱 I’m currently learning MERN and NODE js
 - 💞️ I’m looking to collaborate on Front end developments
